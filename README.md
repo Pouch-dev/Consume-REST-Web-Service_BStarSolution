@@ -1,1 +1,1 @@
-# Consume-REST-Web-Service_BStarSolution
+# Consume REST Web Service by RestTemplate in SpringBoot
